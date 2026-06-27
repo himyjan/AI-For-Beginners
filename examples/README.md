@@ -6,10 +6,11 @@ Welcome! This directory contains simple, standalone examples to help you get sta
 
 | Example | Description | Difficulty | Prerequisites |
 |---------|-------------|------------|---------------|
-| [Hello AI World](./01-HelloAIWorld/01-HelloAIWorld.py) | Your first AI program - simple pattern recognition | ⭐ Beginner | Python basics |
-| [Simple Neural Network](./02-SimpleNeuralNetwork/02-SimpleNeuralNetwork.py) | Build a neural network from scratch | ⭐⭐ Beginner+ | Python, basic math |
-| [Image Classifier](./03-ImageClassifier/03-ImageClassifier.ipynb) | Classify images with a pre-trained model | ⭐⭐ Beginner+ | Python, numpy |
-| [Text Sentiment](./04-TextSentiment/04-TextSentiment.py) | Analyze text sentiment (positive/negative) | ⭐⭐ Beginner+ | Python |
+| [Hello AI World](01-hello-ai-world.py) | Your first AI program - simple pattern recognition | ⭐ Beginner | Python basics |
+| [Simple Neural Network](02-simple-neural-network.py) | Build a neural network from scratch | ⭐⭐ Beginner+ | Python, basic math |
+| [Image Classifier](03-image-classifier.ipynb) | Classify images with a pre-trained model | ⭐⭐ Beginner+ | Python, numpy |
+| [Text Sentiment](04-text-sentiment.py) | Analyze text sentiment (positive/negative) | ⭐⭐ Beginner+ | Python |
+
 
 ## 🚀 Getting Started
 
