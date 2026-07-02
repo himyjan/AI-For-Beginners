@@ -1,7 +1,7 @@
 name: "🌐 Translation Feedback"
 description: "Suggest improvements or submit translations for a language"
 title: "[Translation]: "
-labels: ["translation"]
+labels: ["translations"]
 body:
   - type: dropdown
     id: language
