@@ -17,6 +17,6 @@ If you find a typo or bug in any Jupyter notebook or lesson markdown file:
 3. Submit a Pull Request with a clear description of the fix.
 
 ### 2. Submitting Translations
-We welcome translations of the lessons into other languages! Please place translations under the `translations/` directory using standard ISO language codes (e.g. `translations/es/`).
+We welcome translations of the lessons into other languages! Please place translations under the `translations/` directory using the existing folder names there (for example `translations/es/`, `translations/pt-BR/`, `translations/zh-CN/`).
 
 For more details, see [etc/CONTRIBUTING.md](etc/CONTRIBUTING.md).
